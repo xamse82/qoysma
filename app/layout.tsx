@@ -13,7 +13,7 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "qoysma",
+  title: "HAA TECH ",
   description: "ma u baahantahey in aad u samayso ganacsigaaga website",
 };
 
